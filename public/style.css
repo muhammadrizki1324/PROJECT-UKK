@@ -1,0 +1,48 @@
+.col-7{
+    padding-top: 35px;
+    
+}
+
+.col-4{
+    padding-top: 30px;
+}
+
+
+.login-box{
+    padding-bottom: 250px;
+}
+
+.input-group{
+    padding-right: 30px;
+    
+}
+
+/* halaman home*/
+
+.container{
+    width: 200px;
+    background-color: aqua;
+}
+
+.container li{
+    list-style-type: none;
+}
+.container ul li {
+    display: inline-block;
+
+}
+
+/* Halaman dashboard */
+
+.perjalanan{
+  margin: 200px 50px 50px 600px;
+  font-family:sans-serif ;
+}
+
+.perjalanan button{
+    margin-left: 800px;
+}
+.perjalanan h1{
+  padding-bottom: 20px;
+}
+ 
