@@ -24,8 +24,6 @@ class AkunSeeder extends Seeder
 
             'password' => bcrypt('admin123'),
 
-            'password' => bcrypt('admin'),
-
         ],
 
         [

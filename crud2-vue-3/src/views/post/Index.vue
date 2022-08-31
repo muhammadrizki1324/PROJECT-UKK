@@ -1,10 +1,10 @@
 <template>
-    <div class="container mt-5">
+    <div class="container ">
         <div class="row">
             <div class="col-md-12">
                 <div class="card border-0 rounded shadow" style="background-color:darkgrey ;">
                     <div class="card-body">
-                        <h4 style="color:;">DATA CATATAN PERJALANAN</h4>
+                        <h4 style="text-align: center;">DATA CATATAN PERJALANAN</h4>
                         <hr>
                         <router-link :to="{name: 'post.create'}" class="btn btn-md btn-success" style="color: ghostwhite;">TAMBAH+</router-link>
 

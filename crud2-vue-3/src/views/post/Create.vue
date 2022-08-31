@@ -4,7 +4,7 @@
             <div class="col-md-12">
                 <div class="card border-0 rounded shadow" style="background-color:darkgrey ;">
                     <div class="card-body">
-                        <h4>TAMBAH POST</h4>
+                        <h4 style="text-align: center;">TAMBAH DATA PEDULI DIRI</h4>
                         <hr>
 
                         <form @submit.prevent="store">
